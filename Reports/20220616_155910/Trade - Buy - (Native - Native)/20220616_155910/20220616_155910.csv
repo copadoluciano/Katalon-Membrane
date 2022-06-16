@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Trade - Buy - (Native - Native),Chrome 102.0.5005.115,,,2022-06-16 15:59:13,2022-06-16 15:59:54,"40,889s",PASSED
+,,,,,,,
+Test Cases/TC - Login,Chrome 102.0.5005.115,,,2022-06-16 15:59:14,2022-06-16 15:59:28,"14,019s",PASSED
+"openBrowser("""")",Chrome 102.0.5005.115,,,2022-06-16 15:59:14,2022-06-16 15:59:17,"2,829s",PASSED
+"navigateToUrl(""https://demo.membrane.trade/sign-in/sign-in?skipCaptcha"")",Chrome 102.0.5005.115,,,2022-06-16 15:59:17,2022-06-16 15:59:21,"4,283s",PASSED
+"setText(findTestObject(""Object Repository/sign_in/input_email""), ""testinga13@membrane.trade"")",Chrome 102.0.5005.115,,,2022-06-16 15:59:21,2022-06-16 15:59:23,"1,715s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/sign_in/input_password""), ""4QAB1q7oUv9VprcK01p93A9bWbgBFWRH2qSTlN87QmniU9Gka11DSA=="")",Chrome 102.0.5005.115,,,2022-06-16 15:59:23,2022-06-16 15:59:24,"0,707s",PASSED
+"click(findTestObject(""Object Repository/sign_in/button_Next""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:24,2022-06-16 15:59:24,"0,436s",PASSED
+"setText(findTestObject(""Object Repository/sign_in/input_token""), ""111111"")",Chrome 102.0.5005.115,,,2022-06-16 15:59:24,2022-06-16 15:59:27,"2,994s",PASSED
+"click(findTestObject(""Object Repository/sign_in/button_Next""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:27,2022-06-16 15:59:28,"0,534s",PASSED
+,,,,,,,
+Test Cases/TC - Buy - (Native - Native),Chrome 102.0.5005.115,,,2022-06-16 15:59:28,2022-06-16 15:59:51,"22,995s",PASSED
+"click(findTestObject(""header/buy_sell""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:29,2022-06-16 15:59:39,"10,764s",PASSED
+"click(findTestObject(""trades/button_Inbox""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:39,2022-06-16 15:59:40,"1,148s",PASSED
+"click(findTestObject(""trades/button_Outbox""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:40,2022-06-16 15:59:41,"0,476s",PASSED
+"click(findTestObject(""trades/button_Accepted""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:41,2022-06-16 15:59:42,"1,176s",PASSED
+"click(findTestObject(""trades/button_History""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:42,2022-06-16 15:59:43,"1,035s",PASSED
+"click(findTestObject(""trades/button_Create New Order""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:43,2022-06-16 15:59:44,"1,171s",PASSED
+"click(findTestObject(""trades/button_Buy""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:44,2022-06-16 15:59:45,"0,980s",PASSED
+"setText(findTestObject(""trades/input_quantity""), ""0.1"")",Chrome 102.0.5005.115,,,2022-06-16 15:59:45,2022-06-16 15:59:47,"1,472s",PASSED
+"setText(findTestObject(""trades/input_unit_prince""), ""1"")",Chrome 102.0.5005.115,,,2022-06-16 15:59:47,2022-06-16 15:59:48,"0,978s",PASSED
+"setText(findTestObject(""trades/input_expiration""), ""1"")",Chrome 102.0.5005.115,,,2022-06-16 15:59:48,2022-06-16 15:59:49,"0,894s",PASSED
+"click(findTestObject(""trades/open_modal_counterparty""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:49,2022-06-16 15:59:49,"0,518s",PASSED
+"click(findTestObject(""trades/select_chavo""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:49,2022-06-16 15:59:50,"0,572s",PASSED
+"click(findTestObject(""trades/close_modal_counterparty""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:50,2022-06-16 15:59:50,"0,574s",PASSED
+"click(findTestObject(""trades/create_order""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:50,2022-06-16 15:59:51,"0,566s",PASSED
+,,,,,,,
+Test Cases/TC - Logout,Chrome 102.0.5005.115,,,2022-06-16 15:59:51,2022-06-16 15:59:54,"3,513s",PASSED
+"click(findTestObject(""menu_right/menu_user""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:51,2022-06-16 15:59:53,"1,257s",PASSED
+"click(findTestObject(""menu_right/logout""))",Chrome 102.0.5005.115,,,2022-06-16 15:59:53,2022-06-16 15:59:54,"1,048s",PASSED
+closeBrowser(),Chrome 102.0.5005.115,,,2022-06-16 15:59:54,2022-06-16 15:59:54,"0,724s",PASSED
