@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Trade - Buy - Native Tokens</name>
+   <name>Trade - Buy - (Native - Native)</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -22,7 +22,7 @@
       <guid>ee114c31-0b38-4593-a877-2e3d3e2445df</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Buy - Native Tokens</testCaseId>
+      <testCaseId>Test Cases/TC - Buy - (Native - Native)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

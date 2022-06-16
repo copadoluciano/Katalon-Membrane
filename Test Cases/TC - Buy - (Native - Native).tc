@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Buy - Native Tokens</name>
+   <name>TC - Buy - (Native - Native)</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>b8e7c114-9dec-472f-81bd-4cb0435ddf83</testCaseGuid>

@@ -17,9 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('menu_right/menu_user'))
+WebUI.click(findTestObject('header/buy_sell'))
 
-WebUI.click(findTestObject('menu_right/logout'))
+WebUI.click(findTestObject('trades/button_Inbox'))
 
-WebUI.closeBrowser()
+WebUI.click(findTestObject('trades/button_Outbox'))
+
+WebUI.click(findTestObject('trades/button_Accepted'))
+
+WebUI.click(findTestObject('trades/button_History'))
+
+WebUI.click(findTestObject('trades/button_Create New Order'))
+
+WebUI.click(findTestObject('trades/button_Buy'))
+
+WebUI.setText(findTestObject('trades/input_quantity'), '0.1')
+
+WebUI.setText(findTestObject('trades/input_unit_prince'), '1')
+
+WebUI.setText(findTestObject('trades/input_expiration'), '1')
+
+WebUI.click(findTestObject('trades/open_modal_counterparty'))
+
+WebUI.click(findTestObject('trades/select_chavo'))
+
+WebUI.click(findTestObject('trades/close_modal_counterparty'))
+
+WebUI.click(findTestObject('trades/create_order'))
 
