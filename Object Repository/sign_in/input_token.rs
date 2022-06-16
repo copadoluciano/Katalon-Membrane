@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Enter your 6-digit code_styles_backgr_22ee6f</name>
+   <name>input_token</name>
    <tag></tag>
    <elementGuidId>7ac7f1bd-a103-4555-a276-25ac05e97098</elementGuidId>
    <selectorCollection>

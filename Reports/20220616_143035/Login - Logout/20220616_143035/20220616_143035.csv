@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login - Logout,Chrome 102.0.5005.115,,,2022-06-16 14:30:39,2022-06-16 14:30:55,"16,004s",FAILED
+,,,,,,,
+Test Cases/TC - Login,Chrome 102.0.5005.115,,,2022-06-16 14:30:40,2022-06-16 14:30:54,"14,546s",PASSED
+"openBrowser("""")",Chrome 102.0.5005.115,,,2022-06-16 14:30:41,2022-06-16 14:30:44,"3,621s",PASSED
+"navigateToUrl(""https://demo.membrane.trade/sign-in/sign-in?skipCaptcha"")",Chrome 102.0.5005.115,,,2022-06-16 14:30:44,2022-06-16 14:30:47,"2,606s",PASSED
+"setText(findTestObject(""Object Repository/sign_in/input_email""), ""testinga13@membrane.trade"")",Chrome 102.0.5005.115,,,2022-06-16 14:30:47,2022-06-16 14:30:49,"2,227s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/sign_in/input_password""), ""4QAB1q7oUv9VprcK01p93A9bWbgBFWRH2qSTlN87QmniU9Gka11DSA=="")",Chrome 102.0.5005.115,,,2022-06-16 14:30:49,2022-06-16 14:30:50,"0,655s",PASSED
+"click(findTestObject(""Object Repository/sign_in/button_Next""))",Chrome 102.0.5005.115,,,2022-06-16 14:30:50,2022-06-16 14:30:50,"0,447s",PASSED
+"setText(findTestObject(""Object Repository/sign_in/input_token""), ""111111"")",Chrome 102.0.5005.115,,,2022-06-16 14:30:50,2022-06-16 14:30:52,"2,172s",PASSED
+"click(findTestObject(""Object Repository/sign_in/button_Next""))",Chrome 102.0.5005.115,,,2022-06-16 14:30:52,2022-06-16 14:30:53,"0,540s",PASSED
+closeBrowser(),Chrome 102.0.5005.115,,,2022-06-16 14:30:53,2022-06-16 14:30:54,"1,108s",PASSED
+,,,,,,,
+Test Cases/TC - Logout,Chrome 102.0.5005.115,,,2022-06-16 14:30:55,2022-06-16 14:30:55,"0,097s",FAILED
+"click(findTestObject(""menu_right/menu_user""))",Chrome 102.0.5005.115,,,2022-06-16 14:30:55,2022-06-16 14:30:55,"0,086s",FAILED

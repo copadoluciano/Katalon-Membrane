@@ -17,19 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.click(findTestObject('menu_right/menu_user'))
 
-WebUI.navigateToUrl('https://demo.membrane.trade/sign-in/sign-in?skipCaptcha')
-
-WebUI.setText(findTestObject('Object Repository/Page_Membrane/input_Email_email'), 'testinga13@membrane.trade')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Membrane/input_Password_password'), '4QAB1q7oUv9VprcK01p93A9bWbgBFWRH2qSTlN87QmniU9Gka11DSA==')
-
-WebUI.click(findTestObject('Object Repository/Page_Membrane/button_Next'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Membrane/input_Enter your 6-digit code_styles_backgr_22ee6f'), '111111')
-
-WebUI.click(findTestObject('Object Repository/Page_Membrane/button_Next'))
+WebUI.click(findTestObject('menu_right/logout'))
 
 WebUI.closeBrowser()
+
+WebUI.acceptAlert()
 

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Email_email</name>
+   <name>input_quantity</name>
    <tag></tag>
-   <elementGuidId>e0f5f237-2c46-4ba2-a9f5-ead1e8868dc0</elementGuidId>
+   <elementGuidId>c19a7eff-8d2c-488b-b33b-e0de00c91f12</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;email&quot;]</value>
+         <value>input[name=&quot;base.amount&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='email']</value>
+         <value>//input[@name='base.amount']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>783e178c-7bd9-4cac-9c9e-c8e751273863</webElementGuid>
+      <webElementGuid>42ff9689-12b6-4a1e-97ee-9b56ce7a3a3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>a26b1a14-250c-4a15-b953-21b4d102f054</webElementGuid>
+      <value>number</value>
+      <webElementGuid>2d599232-5e4e-4542-908c-d8a6bf2d43d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>89371c43-3496-422e-af61-878c288a06e7</webElementGuid>
+      <value>base.amount</value>
+      <webElementGuid>01c9b9bf-e5e2-4323-846f-aeb659c3b67a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-cy</name>
       <type>Main</type>
-      <value>field_email</value>
-      <webElementGuid>ef96be79-de45-45e0-b4bf-0008be8d720a</webElementGuid>
+      <value>field_base.amount</value>
+      <webElementGuid>f94d0368-096a-48d1-85e0-dde3befbd3e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>step</name>
       <type>Main</type>
       <value>any</value>
-      <webElementGuid>25a9a8d8-7a97-4d7b-a0fe-41ba02dad894</webElementGuid>
+      <webElementGuid>25f4474d-af95-4258-97ff-86ca367762fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,54 +62,54 @@
       <name>class</name>
       <type>Main</type>
       <value>styles_input__sEMsJ</value>
-      <webElementGuid>c8d5a6c6-d2b5-4949-86d5-0b1e1a553e6e</webElementGuid>
+      <webElementGuid>0a2845b4-4664-4f55-b43e-9137153c238a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Enter your email</value>
-      <webElementGuid>a236750d-e24a-446c-acb2-74bb3436adf2</webElementGuid>
+      <value>Between 0.00001 and 100000</value>
+      <webElementGuid>aaba5784-8750-45ee-aa1e-0b4af77102a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;styles_splash__GTouU&quot;]/form[1]/div[1]/div[@class=&quot;styles_responsiveAbsolutFix__bCkQO&quot;]/div[@class=&quot;styles_container__0Fbqk&quot;]/div[@class=&quot;styles_signInForm__i2b4C&quot;]/div[@class=&quot;styles_inputs__o1Xni&quot;]/div[@class=&quot;styles_sufixWrapper__qozVh&quot;]/input[@class=&quot;styles_input__sEMsJ&quot;]</value>
-      <webElementGuid>a39f3582-5ee5-4ca5-b5b6-1be7a3acb1cf</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_buySellContainer__lJE32&quot;]/form[1]/div[@class=&quot;styles_card__yCIOH&quot;]/div[@class=&quot;styles_cardContainer__OD4EQ&quot;]/div[1]/div[@class=&quot;styles_flexWrapper__XSBX8&quot;]/div[@class=&quot;styles_flexOne__rJ02c&quot;]/div[@class=&quot;styles_flexOne__rJ02c&quot;]/div[@class=&quot;styles_base__56yUD&quot;]/div[@class=&quot;styles_selectorGroup__15FEB&quot;]/div[@class=&quot;styles_baseAmount__rCk-o&quot;]/div[@class=&quot;styles_sufixWrapper__qozVh&quot;]/input[@class=&quot;styles_input__sEMsJ&quot;]</value>
+      <webElementGuid>3d889d38-057f-4581-aa58-c6d129479727</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='email']</value>
-      <webElementGuid>72d3f14f-00ae-441a-8418-dd92ae517422</webElementGuid>
+      <value>//input[@name='base.amount']</value>
+      <webElementGuid>5d9728ff-3d3e-45eb-99af-c8bc39a2f86f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div/form/div/div/div/div/div/div/input</value>
-      <webElementGuid>1ae8435a-479c-40f5-9e7d-78e267db3288</webElementGuid>
+      <value>//div[@id='root']/div/div/div/form/div[2]/div/div/div/div/div/div/div/div[2]/div/input</value>
+      <webElementGuid>294374d0-c636-42fd-b823-5ef8e8e18293</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>fab8bb50-a7fd-4c71-b60b-dd637e22d1c6</webElementGuid>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>abe0b422-4091-4ad0-8337-5c4d3a98211b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'email' and @placeholder = 'Enter your email']</value>
-      <webElementGuid>dc1bd388-3d22-423f-b2ba-0586900d3357</webElementGuid>
+      <value>//input[@type = 'number' and @name = 'base.amount' and @placeholder = 'Between 0.00001 and 100000']</value>
+      <webElementGuid>94789d94-586d-4cb6-b0b5-da39a4b2eb24</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
