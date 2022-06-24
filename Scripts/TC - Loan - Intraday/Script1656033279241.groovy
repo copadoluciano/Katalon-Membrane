@@ -17,31 +17,39 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('header/buy_sell'))
+WebUI.click(findTestObject('header/lend_borrow'))
 
-WebUI.click(findTestObject('trades/button_Inbox'))
+WebUI.click(findTestObject('loan/button_create_new_order'))
 
-WebUI.click(findTestObject('trades/button_Outbox'))
+WebUI.click(findTestObject('loan/select_intraday'))
 
-WebUI.click(findTestObject('trades/button_Accepted'))
+WebUI.click(findTestObject('loan/select_currency'))
 
-WebUI.click(findTestObject('trades/button_History'))
+WebUI.click(findTestObject('loan/select_Litecoin'))
 
-WebUI.click(findTestObject('trades/button_Create New Order'))
+WebUI.setText(findTestObject('loan/input_principal_amount'), '1')
 
-WebUI.click(findTestObject('trades/button_Buy'))
+WebUI.click(findTestObject('loan/select_counterparty'))
 
-WebUI.setText(findTestObject('trades/input_quantity'), '0.1')
+WebUI.click(findTestObject('loan/select_chavo'))
 
-WebUI.setText(findTestObject('trades/input_unit_prince'), '1')
+WebUI.click(findTestObject('loan/close_counterparty'))
 
-WebUI.setText(findTestObject('trades/input_expiration'), '1')
+WebUI.setText(findTestObject('loan/input_hir'), '10')
 
-WebUI.click(findTestObject('trades/open_modal_counterparty'))
+WebUI.click(findTestObject('loan/select_offer_expiration_intraday'))
 
-WebUI.click(findTestObject('trades/select_chavo'))
+WebUI.click(findTestObject('loan/select_hours_intraday'))
 
-WebUI.click(findTestObject('trades/close_modal_counterparty'))
+WebUI.setText(findTestObject('loan/input_time_duration_offer'), '1')
 
-WebUI.click(findTestObject('trades/create_order'))
+WebUI.setText(findTestObject('loan/input_collateral'), '50')
+
+WebUI.click(findTestObject('loan/select_collateral_asset_intraday'))
+
+WebUI.click(findTestObject('loan/select_collateral_tokemak'))
+
+WebUI.setText(findTestObject('loan/input_collateral_limit'), '10')
+
+WebUI.click(findTestObject('loan/button_place_offer'))
 

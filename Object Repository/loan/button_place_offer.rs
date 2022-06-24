@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_place_offer</name>
+   <tag></tag>
+   <elementGuidId>1d342c86-4174-4fc4-9719-5b739b8935ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_buttonContainer__OMviC > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/form/div[2]/div/div[4]/div/div/div/button/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>52276ac0-ce22-462d-af08-567416057999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Place Offer </value>
+      <webElementGuid>27b7eaa7-419b-42d0-a525-6d28a5c2bd89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_lendBorrowContainer__oNH9F&quot;]/form[1]/div[@class=&quot;styles_card__yCIOH&quot;]/div[@class=&quot;styles_cardContainer__OD4EQ&quot;]/div[@class=&quot;styles_footerButtonsContainer__PGAHL&quot;]/div[@class=&quot;styles_footerButtons__BJsFH&quot;]/div[@class=&quot;styles_container__vqOJJ&quot;]/div[@class=&quot;styles_btn-primary__qpwKX&quot;]/button[1]/div[@class=&quot;styles_buttonContainer__OMviC&quot;]/span[1]</value>
+      <webElementGuid>e99a307c-97e6-4273-a98d-6081f818f62a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/form/div[2]/div/div[4]/div/div/div/button/div/span</value>
+      <webElementGuid>a8d49692-2db0-474e-b547-6055c61e81ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESTIMATED END DATE *'])[1]/following::span[2]</value>
+      <webElementGuid>aa042a38-e3af-434d-b016-0a147f3eb5de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESTIMATED START DATE *'])[1]/following::span[2]</value>
+      <webElementGuid>69f0e17f-95af-45d0-89bf-fd97089e513f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[2]</value>
+      <webElementGuid>9c85fb7c-8251-4887-b785-83a96fe34ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::span[3]</value>
+      <webElementGuid>a91884f6-d5d7-4901-993b-e5db1653edbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Place Offer']/parent::*</value>
+      <webElementGuid>f4a6414a-a9d5-4ec2-9ed9-5b3e101b65b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/span</value>
+      <webElementGuid>85aadb5f-0297-42c3-8670-7958f4e6f7f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Place Offer ' or . = 'Place Offer ')]</value>
+      <webElementGuid>0da4681a-4267-4bdd-bc34-06293f7eee0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
