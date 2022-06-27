@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Trade - Buy - (Native - Custom)</name>
+   <name>Loan - Evergreen</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,23 +10,23 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>fcdeab77-dfeb-4955-81d8-0489c2e932cc</testSuiteGuid>
+   <testSuiteGuid>ea9d3c1b-0451-4f7c-abd6-d15e10cb11a9</testSuiteGuid>
    <testCaseLink>
-      <guid>4bbf1d91-e540-4280-a13f-0f06fbcb8843</guid>
+      <guid>8114cd7e-7346-4460-82c3-981010ca1253</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC - Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ec14bff4-0a5b-4b83-af82-3b8a9ee01064</guid>
+      <guid>c9f978c2-3678-4154-8b5d-a4f3d9818b14</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC - Buy - (Native - Custom)</testCaseId>
+      <testCaseId>Test Cases/TC - Loan - Evergreen</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b804b202-e6d0-44dc-ae76-a39223f1d321</guid>
+      <guid>cb0ee90b-8635-4b44-9648-1609cdd6cc7e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC - Logout</testCaseId>

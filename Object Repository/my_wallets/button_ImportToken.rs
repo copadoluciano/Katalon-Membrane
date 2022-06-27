@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ImportToken</name>
+   <tag></tag>
+   <elementGuidId>ef0d57aa-1b85-479a-b0d0-62e65f7a548f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/button/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_buttonContainer__OMviC > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9778c7a7-a3e9-46d6-8cad-59c51d4b7bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Import Token </value>
+      <webElementGuid>b17816e6-bf61-46a4-9f63-75037fe09bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_myBalanceHeader__8eqxI&quot;]/div[@class=&quot;styles_selectable__ja4NI&quot;]/div[@class=&quot;styles_container__vqOJJ&quot;]/div[@class=&quot;styles_btn-secondary__Zk-2T&quot;]/button[1]/div[@class=&quot;styles_buttonContainer__OMviC&quot;]/span[1]</value>
+      <webElementGuid>6f00d37f-bcc2-4df8-a906-d41301b4ccc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/button/div/span</value>
+      <webElementGuid>14a752cc-bbbd-40d1-85c0-882fc272dc54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wallets'])[1]/following::span[1]</value>
+      <webElementGuid>9c414fa5-6d30-447b-a96a-837277e57524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ta'])[1]/following::span[1]</value>
+      <webElementGuid>d08e1688-35e1-4499-9c93-63f4a7ba9d51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sending Address'])[1]/preceding::span[2]</value>
+      <webElementGuid>bcc993e8-b72c-457f-a0c9-d6604f18267d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receiving Address'])[1]/preceding::span[2]</value>
+      <webElementGuid>8cf2a5c2-7564-47d8-8d00-c8ecb00b49b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/span</value>
+      <webElementGuid>fa0ab7e9-ee82-409f-a238-4885e1a1cdd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '  Import Token ' or . = '  Import Token ')]</value>
+      <webElementGuid>612f1456-b2be-437c-90d5-2c0d98427d20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

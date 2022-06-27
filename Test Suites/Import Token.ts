@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Loan - Intraday</name>
+   <name>Import Token</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,23 +10,23 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>3a70c521-d415-4b57-91bd-ec6cb4aaeb38</testSuiteGuid>
+   <testSuiteGuid>0ad82725-4b95-4567-b8b4-bbdb50bd5bb3</testSuiteGuid>
    <testCaseLink>
-      <guid>d213ade8-b903-47d5-b6cf-61b9ed59720f</guid>
+      <guid>8d897ca8-25bc-4ad9-9fd0-ae4ff2473701</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC - Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>58c7cc73-9f3b-4860-a08c-ccc65d03772d</guid>
+      <guid>59f491be-f66f-4b79-b211-8177a449b575</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC - Loan - Intraday</testCaseId>
+      <testCaseId>Test Cases/TC - Import Token</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1064ae38-be30-4e14-9313-e0732ab7ba7e</guid>
+      <guid>b9d62a75-1498-4344-82f5-888b2e30531f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC - Logout</testCaseId>

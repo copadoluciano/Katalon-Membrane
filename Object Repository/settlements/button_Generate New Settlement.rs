@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Generate New Settlement</name>
+   <tag></tag>
+   <elementGuidId>8e5fe834-ee74-4c41-a6c9-20ed14706cd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_btn-primary__qpwKX > button[type=&quot;button&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3cf2370e-6537-47bc-aab8-6f9619fc1e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bc7de087-5132-4a55-aac1-62ba65fc9602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+ Generate New Settlement </value>
+      <webElementGuid>047d9e3d-ceff-4169-9c30-705119e91348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_settlementsContainer__xEq-a&quot;]/div[@class=&quot;styles_settlementHeader__R5vSr&quot;]/div[@class=&quot;styles_container__vqOJJ&quot;]/div[@class=&quot;styles_btn-primary__qpwKX&quot;]/button[1]</value>
+      <webElementGuid>503fbf75-dec5-4c35-8187-07d942b7a09c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>5c6b4385-5204-462e-b5af-d2eb3c15efd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/button</value>
+      <webElementGuid>b1436eb1-52fe-47a9-a6ca-ca0e4e067285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settlement Fees'])[1]/following::button[1]</value>
+      <webElementGuid>1a007540-4179-4653-a13b-6861af1bc81f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Past Settlements'])[1]/following::button[2]</value>
+      <webElementGuid>88bdea22-3fb0-4a36-93e2-857e4681bc6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/preceding::button[1]</value>
+      <webElementGuid>3aa08411-187d-4657-a9dc-efc7a48a21d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>a301fb17-c420-4e38-b856-ae540d6f2b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '+ Generate New Settlement ' or . = '+ Generate New Settlement ')]</value>
+      <webElementGuid>b45d65b9-3a4a-4331-878c-05e8f5fb7462</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

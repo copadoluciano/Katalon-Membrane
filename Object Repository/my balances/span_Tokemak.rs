@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tokemak</name>
+   <tag></tag>
+   <elementGuidId>8a4e38c7-5935-4a73-8179-3e32cbb68331</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/div/div[4]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>092778a5-6066-4135-85a0-3c19559a3782</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tokemak</value>
+      <webElementGuid>ff2e8271-dd2b-4b7f-a0e9-c2a5289cea86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_myBalanceContainer__yhuRK&quot;]/div[@class=&quot;styles_gridContainer__LiPOa&quot;]/div[@class=&quot;styles_cardContainer__jkBND styles_cardContent__vGB99&quot;]/div[@class=&quot;styles_coinCard__5Z-kA&quot;]/div[@class=&quot;styles_coinCardTitle__Fgz5K&quot;]/span[1]</value>
+      <webElementGuid>c00771a6-efdd-41fa-be4c-c16e459e5c23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div/div[4]/div/div/span</value>
+      <webElementGuid>84b6fef2-7078-4c96-894b-2b7311f87dcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Borrow'])[3]/following::span[2]</value>
+      <webElementGuid>ed6378ef-0dbe-4896-a0f5-2678833dce04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy'])[3]/following::span[4]</value>
+      <webElementGuid>50fc0271-c00e-4422-a165-1ece17e789fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[4]/preceding::span[1]</value>
+      <webElementGuid>65dc7779-a4c6-488a-87e3-12e54b185258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wallet Balance'])[4]/preceding::span[3]</value>
+      <webElementGuid>59ebdcb4-4073-422b-a66b-6f09dfb13fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tokemak']/parent::*</value>
+      <webElementGuid>d3a1d604-dfa0-48b3-b2dc-493199d3d509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/span</value>
+      <webElementGuid>d65fbfe0-f6ba-4b99-8604-bedceee73fde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Tokemak' or . = ' Tokemak')]</value>
+      <webElementGuid>eaa64de7-1e58-4fcc-9bf6-25565946164e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

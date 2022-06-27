@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Trade - Buy - (Native - Custom)</name>
+   <name>Loan - Create Longterm</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,23 +10,23 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>fcdeab77-dfeb-4955-81d8-0489c2e932cc</testSuiteGuid>
+   <testSuiteGuid>8b449018-8468-4dc5-be8d-18c2a6efcf7b</testSuiteGuid>
    <testCaseLink>
-      <guid>4bbf1d91-e540-4280-a13f-0f06fbcb8843</guid>
+      <guid>6ff07236-4a81-47c6-bacc-f4bcd8b4137b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC - Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ec14bff4-0a5b-4b83-af82-3b8a9ee01064</guid>
+      <guid>1ae8cb00-0ee7-4f7a-adef-3df9fb0be0b9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC - Buy - (Native - Custom)</testCaseId>
+      <testCaseId>Test Cases/TC - Loan - Longterm</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b804b202-e6d0-44dc-ae76-a39223f1d321</guid>
+      <guid>99ab871e-73a2-4cf9-b38f-844632600a4c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC - Logout</testCaseId>

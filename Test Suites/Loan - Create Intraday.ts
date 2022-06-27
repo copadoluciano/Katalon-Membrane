@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Loan - Longterm</name>
+   <name>Loan - Create Intraday</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,23 +10,23 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>8b449018-8468-4dc5-be8d-18c2a6efcf7b</testSuiteGuid>
+   <testSuiteGuid>3a70c521-d415-4b57-91bd-ec6cb4aaeb38</testSuiteGuid>
    <testCaseLink>
-      <guid>6ff07236-4a81-47c6-bacc-f4bcd8b4137b</guid>
+      <guid>d213ade8-b903-47d5-b6cf-61b9ed59720f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC - Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1ae8cb00-0ee7-4f7a-adef-3df9fb0be0b9</guid>
+      <guid>58c7cc73-9f3b-4860-a08c-ccc65d03772d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC - Loan - Longterm</testCaseId>
+      <testCaseId>Test Cases/TC - Loan - Intraday</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>99ab871e-73a2-4cf9-b38f-844632600a4c</guid>
+      <guid>1064ae38-be30-4e14-9313-e0732ab7ba7e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC - Logout</testCaseId>

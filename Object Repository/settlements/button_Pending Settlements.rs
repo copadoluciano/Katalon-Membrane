@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pending Settlements</name>
+   <tag></tag>
+   <elementGuidId>70452b04-7e8d-4c5d-b804-8be7e9a78554</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[type=&quot;button&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>10a91f60-0fdb-4c8a-8ce5-21dd79f6263a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-order</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ea44cf64-54d4-441f-a5aa-2a47e832ca08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c7fc1341-d3cb-4d4a-a430-12cc54b9bf0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pending Settlements</value>
+      <webElementGuid>05c60196-7f58-40c5-a1ad-5c843b3e3094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_settlementsContainer__xEq-a&quot;]/div[@class=&quot;styles_settlementHeader__R5vSr&quot;]/nav[@class=&quot;styles_tabs__WvdlF styles_contained__QR+wc&quot;]/button[1]</value>
+      <webElementGuid>fa6cb653-2952-4c85-aa27-32686aaa538d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>dc1f7dad-fa3f-47ab-9b6b-b3ced45b678a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/nav/button</value>
+      <webElementGuid>92f07d3f-a272-4bcb-b5b5-4fc578d7007e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ta'])[1]/following::button[1]</value>
+      <webElementGuid>f969c10d-ee2a-48b2-b088-e003cefd14c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Past Settlements'])[1]/preceding::button[1]</value>
+      <webElementGuid>a8b9e44b-fde7-4d94-ae9d-bf6e2b96f014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settlement Fees'])[1]/preceding::button[2]</value>
+      <webElementGuid>f7fc4332-8516-4a2a-b380-ed0e842309ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pending Settlements']/parent::*</value>
+      <webElementGuid>9a8786da-d652-4998-a252-a2f430c66488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>6060e57e-29fa-4ae2-846e-5911d920a48e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Pending Settlements' or . = 'Pending Settlements')]</value>
+      <webElementGuid>93af89e5-9369-4b5f-9d07-eb60bdb8d9e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

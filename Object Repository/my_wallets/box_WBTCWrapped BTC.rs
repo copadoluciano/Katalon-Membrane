@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>box_WBTCWrapped BTC</name>
+   <tag></tag>
+   <elementGuidId>9c884d86-e338-409c-b4cb-189d4f06d0ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/table/tbody/tr[4]/td/div/div/div/table/tbody/tr[4]/td/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9de73eea-3bbd-40da-b82b-1254c988f809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_coinDescription__8RQVi</value>
+      <webElementGuid>521a2bf2-daa7-49e0-8869-37f615db4900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WBTCWrapped BTC</value>
+      <webElementGuid>fda1a871-3769-4b35-b8e4-e3d03844b54f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_myBalanceContainer__s6wZ-&quot;]/div[@class=&quot;styles_tableWrapper__4+kih&quot;]/table[@class=&quot;styles_membraneTable__F4Lyo styles_walletsTable__Cbug4&quot;]/tbody[1]/tr[@class=&quot;styles_rowDetail__LOnd1&quot;]/td[1]/div[@class=&quot;styles_tableCell__4RsDS styles_walletsTableCell__r3Ezm&quot;]/div[@class=&quot;styles_tokensTable__tuyks&quot;]/div[@class=&quot;styles_tableWrapper__4+kih&quot;]/table[@class=&quot;styles_membraneTable__F4Lyo styles_walletsTable__Cbug4&quot;]/tbody[1]/tr[@class=&quot;styles_walletTableRow__cgr41&quot;]/td[1]/div[@class=&quot;styles_tableCell__4RsDS styles_walletsTableCell__r3Ezm&quot;]/div[@class=&quot;styles_coinDescription__8RQVi&quot;]</value>
+      <webElementGuid>abb9a2e6-a86c-4588-8677-0eee8d73e425</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/table/tbody/tr[4]/td/div/div/div/table/tbody/tr[4]/td/div/div</value>
+      <webElementGuid>bbad5d2d-bff5-41d4-b17c-710918fcea9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read From Ledger Nano'])[10]/following::div[2]</value>
+      <webElementGuid>bd997f93-1fe5-419f-8583-f2e2a0d5fc40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use Same Address as Sending'])[5]/following::div[8]</value>
+      <webElementGuid>c48d81c0-8bde-4ee1-b74a-f4112cff7cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div/table/tbody/tr[4]/td/div/div</value>
+      <webElementGuid>eff067c4-b540-4cd5-a3ff-a81c9d8af878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'WBTCWrapped BTC' or . = 'WBTCWrapped BTC')]</value>
+      <webElementGuid>830dd587-854d-4b9a-8ec0-a5371818e8ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

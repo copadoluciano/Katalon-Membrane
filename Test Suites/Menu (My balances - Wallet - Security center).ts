@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Trade - Buy - (Native - Custom)</name>
+   <name>Menu (My balances - Wallet - Security center)</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,40 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>fcdeab77-dfeb-4955-81d8-0489c2e932cc</testSuiteGuid>
+   <testSuiteGuid>98cb86a8-194c-42ae-987d-4b4dc322c36b</testSuiteGuid>
    <testCaseLink>
-      <guid>4bbf1d91-e540-4280-a13f-0f06fbcb8843</guid>
+      <guid>042db94d-eef9-4bdd-8a33-2ad5e446be21</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC - Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ec14bff4-0a5b-4b83-af82-3b8a9ee01064</guid>
+      <guid>b138efe3-8b7d-4e08-b8bc-75a341b8b98b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC - Buy - (Native - Custom)</testCaseId>
+      <testCaseId>Test Cases/TC - My wallets</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b804b202-e6d0-44dc-ae76-a39223f1d321</guid>
+      <guid>70014c86-35ab-499e-b945-5057eb0ecb74</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC - Logout</testCaseId>
+      <testCaseId>Test Cases/TC - My balances</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b9013c6c-c614-4102-bec6-fe63d3161dd5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC - Security Center</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7c64732b-5e77-447d-9492-0ef175c11bc7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC - Security Center</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

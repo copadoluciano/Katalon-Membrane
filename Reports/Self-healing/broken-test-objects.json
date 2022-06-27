@@ -29,6 +29,96 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/loan/select_collateral_tokemak_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/loan/input_time_duration_loan",
+      "brokenLocator": "//input[@name\u003d\u0027value_term_length\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/form/div[2]/div/div/div[5]/div/div[2]/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/loan/input_time_duration_loan_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/loan/select_offer_expiration",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/form/div[2]/div/div/div[6]/div/div/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Offer Expiration\u0027])[1]/following::div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/loan/select_offer_expiration_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/loan/select_day_longterm_offer",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/form/div[2]/div/div/div[6]/div/div/div/div[2]/ul/li[4]/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Hours\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/loan/select_day_longterm_offer_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/loan/input_time_duration_offer_evergreen2",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Please select value\u0027])[1]/preceding::div[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/form/div[2]/div/div/div[5]/div/div[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/loan/input_time_duration_offer_evergreen2_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/manage_token/import_token_WBTC",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/div/div[2]/div[2]/div[2]/ul/li/div/div/h5",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Ethereum\u0027])[1]/following::h5[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/manage_token/import_token_WBTC_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/manage_token/button__ClearAll",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/div/div[2]/div[2]/div[2]/div[2]/div/div/button/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Sending Address\u0027])[1]/preceding::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/manage_token/button__ClearAll_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/manage_token/button_import",
+      "brokenLocator": "//span[(text() \u003d \u0027Import \u0027 or . \u003d \u0027Import \u0027)]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Sending Address\u0027])[1]/preceding::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/manage_token/button_import_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/manage_token/popup_token successfully imported",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/manage_token/popup_token successfully imported_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/my_wallets/box_WBTCWrapped BTC",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div[2]/div/table/tbody/tr[4]/td/div/div/div/table/tbody/tr[4]/td/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Read From Ledger Nano\u0027])[10]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/my_wallets/box_WBTCWrapped BTC_neighbor.png"
     }
   ]
 }
