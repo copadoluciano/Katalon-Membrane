@@ -29,5 +29,7 @@ WebUI.click(findTestObject('Object Repository/sign_in/button_Next'))
 
 WebUI.setText(findTestObject('Object Repository/sign_in/input_token'), '111111')
 
+WebUI.click(findTestObject('sign_in/fuera_modal'))
+
 WebUI.click(findTestObject('Object Repository/sign_in/button_Next'))
 

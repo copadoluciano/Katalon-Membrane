@@ -17,17 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('header/users'))
+
 WebUI.click(findTestObject('users/button_Whitelist'))
 
 WebUI.click(findTestObject('users/button_Pending Invites'))
 
 WebUI.click(findTestObject('users/span_Invite User'))
 
-WebUI.setText(findTestObject(null), 'ramoncito.lootgnitset@gmail.com')
+WebUI.setText(findTestObject('users/input_Email_email'), 'ramoncito.lootgnitset@gmail.com')
 
 WebUI.click(findTestObject('users/button_Cancel'))
 
-WebUI.setText(findTestObject(null), 'ramoncito.lootgnitset@gmail.com')
+WebUI.setText(findTestObject('users/input_Email_email'), 'ramoncito.lootgnitset@gmail.com')
 
 WebUI.click(findTestObject('users/button_Send'))
 
