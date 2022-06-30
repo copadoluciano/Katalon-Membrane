@@ -33,15 +33,13 @@ WebUI.click(findTestObject('manage_token/check_box'))
 
 WebUI.click(findTestObject('manage_token/button_import'))
 
+WebUI.delay(5)
+
 WebUI.verifyElementVisible(findTestObject('manage_token/popup_token successfully imported'))
 
-WebUI.click(findTestObject('manage_token/button_import'))
+WebUI.click(findTestObject('my_wallets/button_ImportToken'))
 
 WebUI.click(findTestObject('manage_token/delete_custom_token'))
-
-WebUI.verifyElementVisible(findTestObject('manage_token/popup_token successfully imported'))
-
-WebUI.click(findTestObject('manage_token/close_manage_tokens'))
 
 WebUI.delay(4)
 

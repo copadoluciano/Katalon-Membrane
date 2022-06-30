@@ -6,7 +6,7 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://demo.membrane.trade/sign-in/sign-in?skipCaptcha'</initValue>
+      <initValue>'https://app-staging.membranelabs.com/sign-in/sign-in?skipCaptcha'</initValue>
       <name>URL</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
