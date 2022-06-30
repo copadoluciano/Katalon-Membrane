@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Trade - Sell (Native - Native)</name>
+   <name>Trades</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,19 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>42a66712-ea3b-486d-aa20-bb24fbe9a5ee</testSuiteGuid>
+   <testSuiteGuid>fcdeab77-dfeb-4955-81d8-0489c2e932cc</testSuiteGuid>
    <testCaseLink>
-      <guid>f58502f5-2fe0-48fe-abb2-5b503a69df98</guid>
+      <guid>4bbf1d91-e540-4280-a13f-0f06fbcb8843</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/TC - Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>9473a010-c9b8-449e-9902-bf59118cad85</guid>
+      <guid>ec14bff4-0a5b-4b83-af82-3b8a9ee01064</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC - Sell - (Native - Native)</testCaseId>
+      <testCaseId>Test Cases/TC - Buy - (Native - Custom)</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

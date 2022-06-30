@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://app-staging.membranelabs.com/sign-in/sign-in?skipCaptcha')
+WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.setText(findTestObject('Object Repository/sign_in/input_email'), 'testinga13@membrane.trade')
 
