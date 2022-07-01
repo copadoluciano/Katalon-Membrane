@@ -33,9 +33,9 @@ WebUI.click(findTestObject('STAGING/manage_token/check_box'))
 
 WebUI.click(findTestObject('STAGING/manage_token/button_import'))
 
-WebUI.delay(5)
-
 WebUI.verifyElementVisible(findTestObject('STAGING/manage_token/popup_token successfully imported'))
+
+WebUI.delay(7)
 
 WebUI.click(findTestObject('STAGING/my_wallets/button_ImportToken'))
 
