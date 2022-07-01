@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_bch</name>
+   <tag></tag>
+   <elementGuidId>0d2f2c04-8eb2-4e17-bdc5-aead787a13f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt = 'icon asset' and @src = 'https://api-staging.membranelabs.com/files/icons/BCH_icon.svg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0eb07424-138c-49c7-9505-afd4851ab900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>icon asset</value>
+      <webElementGuid>63932b83-9958-4b6f-945b-da4860a9de18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://api-staging.membranelabs.com/files/icons/BCH_icon.svg</value>
+      <webElementGuid>cfa54560-bf71-4cc2-9346-c60989376a35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_myBalanceContainer__s6wZ-&quot;]/div[@class=&quot;styles_tableWrapper__4+kih&quot;]/table[@class=&quot;styles_membraneTable__F4Lyo styles_walletsTable__Cbug4&quot;]/tbody[1]/tr[@class=&quot;styles_walletTableRow__cgr41&quot;]/td[1]/div[@class=&quot;styles_tableCell__4RsDS styles_walletsTableCell__r3Ezm&quot;]/div[@class=&quot;styles_coinDescription__8RQVi&quot;]/img[1]</value>
+      <webElementGuid>095ae3c9-562b-44a7-af1e-92b9ad454e4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/table/tbody/tr[5]/td/div/div/img</value>
+      <webElementGuid>45a8ce5e-0c3e-4a64-9576-2cb8fd00d34e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='icon asset'])[4]</value>
+      <webElementGuid>0ba36e68-264f-48dc-a562-103d21bd33b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td/div/div/img</value>
+      <webElementGuid>a7e07be2-d009-4ce8-948a-34289a097630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'icon asset' and @src = 'https://api-staging.membranelabs.com/files/icons/BCH_icon.svg']</value>
+      <webElementGuid>38703364-d312-49a8-a7f1-41925267253d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

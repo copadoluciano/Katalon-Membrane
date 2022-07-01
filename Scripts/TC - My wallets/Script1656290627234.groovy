@@ -23,13 +23,29 @@ WebUI.click(findTestObject('menu_right/my_wallets'))
 
 WebUI.verifyElementVisible(findTestObject('my_wallets/button_ImportToken'))
 
-WebUI.verifyElementVisible(findTestObject('my_wallets/box_BTCBitcoin'))
+WebUI.verifyElementVisible(findTestObject('my_wallets/img_btc'))
 
-WebUI.verifyElementVisible(findTestObject('my_wallets/box_ETHEthereum'))
+WebUI.verifyElementVisible(findTestObject('my_wallets/span_Bitcoin'))
 
-WebUI.verifyElementVisible(findTestObject('my_wallets/box_LTCLitecoin'))
+WebUI.verifyElementVisible(findTestObject('my_wallets/span_BTC'))
 
-WebUI.verifyElementVisible(findTestObject('my_wallets/div_BCHBitcoin Cash'))
+WebUI.verifyElementVisible(findTestObject('my_wallets/img_eth'))
+
+WebUI.verifyElementVisible(findTestObject('my_wallets/span_ETH'))
+
+WebUI.verifyElementVisible(findTestObject('my_wallets/span_Ethereum'))
+
+WebUI.verifyElementVisible(findTestObject('my_wallets/img_ltc'))
+
+WebUI.verifyElementVisible(findTestObject('my_wallets/span_LTC'))
+
+WebUI.verifyElementVisible(findTestObject('my_wallets/span_Litecoin'))
+
+WebUI.verifyElementVisible(findTestObject('my_wallets/img_bch'))
+
+WebUI.verifyElementVisible(findTestObject('my_wallets/span_BCH'))
+
+WebUI.verifyElementVisible(findTestObject('my_wallets/span_Bitcoin Cash'))
 
 WebUI.click(findTestObject('my_wallets/show_tokens'))
 

@@ -29,7 +29,19 @@ WebUI.setText(findTestObject('users/input_Email_email'), 'ramoncito.lootgnitset@
 
 WebUI.click(findTestObject('users/button_Cancel'))
 
+WebUI.click(findTestObject('users/span_Invite User'))
+
 WebUI.setText(findTestObject('users/input_Email_email'), 'ramoncito.lootgnitset@gmail.com')
 
 WebUI.click(findTestObject('users/button_Send'))
+
+WebUI.verifyElementVisible(findTestObject('users/popuo_invite_sent'))
+
+WebUI.click(findTestObject('users/button_Pending Invites'))
+
+WebUI.verifyElementVisible(findTestObject('users/validate_pending_invite'))
+
+WebUI.click(findTestObject('users/cancel_invite'))
+
+WebUI.delay(5)
 

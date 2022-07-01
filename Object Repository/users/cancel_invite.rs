@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cancel_invite</name>
+   <tag></tag>
+   <elementGuidId>bdaa7afa-9d60-43d0-969b-6900bd55dff5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/div/table/tbody/tr/td[2]/div/div/div/div/button/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5f81bbc9-6606-4314-b538-1012a01daab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel Invite </value>
+      <webElementGuid>e705c374-9ec8-463f-92c8-56fddd3edce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_usersContainer__jzXgW&quot;]/div[2]/div[1]/div[@class=&quot;styles_sentTable__tI2no&quot;]/div[@class=&quot;styles_tableWrapper__4+kih&quot;]/table[@class=&quot;styles_membraneTable__F4Lyo&quot;]/tbody[1]/tr[1]/td[2]/div[@class=&quot;styles_tableCell__4RsDS&quot;]/div[@class=&quot;styles_actionsCol__6AfjP&quot;]/div[@class=&quot;styles_container__vqOJJ&quot;]/div[@class=&quot;styles_btn-secondary__Zk-2T styles_actionButton__+UkZa&quot;]/button[1]/div[@class=&quot;styles_buttonContainer__OMviC&quot;]/span[1]</value>
+      <webElementGuid>fe43d35a-fb63-4f87-8ebc-1d08deea1f32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div[2]/div/div[2]/div/table/tbody/tr/td[2]/div/div/div/div/button/div/span</value>
+      <webElementGuid>77d22c16-5236-4eb3-9817-e171c59fb4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ramoncito.lootgnitset@gmail.com'])[1]/following::span[1]</value>
+      <webElementGuid>fedba21c-9e0e-4dee-b2fc-df066a591d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-MAIL'])[1]/following::span[1]</value>
+      <webElementGuid>a5b50414-e7aa-43f4-be38-ce7c94632bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Reminder'])[1]/preceding::span[2]</value>
+      <webElementGuid>67e59ab3-c8f5-4472-b125-655430d344b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[1]/preceding::span[4]</value>
+      <webElementGuid>d7e68f1b-2bdd-4adf-bd6e-3389137c7c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel Invite']/parent::*</value>
+      <webElementGuid>c9963de3-b1ad-4ace-9c06-ea2df782933a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div/div/div/button/div/span</value>
+      <webElementGuid>f482ebb5-a149-408b-8c5e-e196314d0868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cancel Invite ' or . = 'Cancel Invite ')]</value>
+      <webElementGuid>2a76319f-5b03-4b4a-8542-cdfd6a338b7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

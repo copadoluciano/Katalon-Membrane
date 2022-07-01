@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_eth</name>
+   <tag></tag>
+   <elementGuidId>2499f86a-8a52-4bf1-9065-8570a7f1fb3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.styles_walletTableRow__cgr41.styles_hasCollapsableButtonRow__aEBRv > td > div.styles_tableCell__4RsDS.styles_walletsTableCell__r3Ezm > div.styles_coinDescription__8RQVi > img[alt=&quot;icon asset&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt = 'icon asset' and @src = 'https://api-staging.membranelabs.com/files/icons/ETH_icon.svg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4b5e1ab2-4ddc-4d5e-a1a3-23f7588b818f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>icon asset</value>
+      <webElementGuid>191da09b-7d3b-4a37-8bd3-b7187d75dee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://api-staging.membranelabs.com/files/icons/ETH_icon.svg</value>
+      <webElementGuid>4d89cd40-9db9-4540-a6f9-8cd98db20433</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_myBalanceContainer__s6wZ-&quot;]/div[@class=&quot;styles_tableWrapper__4+kih&quot;]/table[@class=&quot;styles_membraneTable__F4Lyo styles_walletsTable__Cbug4&quot;]/tbody[1]/tr[@class=&quot;styles_walletTableRow__cgr41 styles_hasCollapsableButtonRow__aEBRv&quot;]/td[1]/div[@class=&quot;styles_tableCell__4RsDS styles_walletsTableCell__r3Ezm&quot;]/div[@class=&quot;styles_coinDescription__8RQVi&quot;]/img[1]</value>
+      <webElementGuid>66031c6b-59bd-4641-a618-15b1c16d2aa3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/table/tbody/tr[2]/td/div/div/img</value>
+      <webElementGuid>aa6b75ae-7a92-4b83-9330-a29e7e71d12f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='icon asset'])[2]</value>
+      <webElementGuid>b2535686-4540-4f6a-9f52-fe143ea0ec34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/div/img</value>
+      <webElementGuid>47186cc8-bc1c-45ae-8234-9ef6f57e187c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'icon asset' and @src = 'https://api-staging.membranelabs.com/files/icons/ETH_icon.svg']</value>
+      <webElementGuid>c5d30561-21aa-46ba-bfda-d309dd7b4f12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
