@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>box_USDCUSD Coin</name>
+   <tag></tag>
+   <elementGuidId>8b8bc633-c351-4c55-bd5b-569cb04e19d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/table/tbody/tr[4]/td/div/div/div/table/tbody/tr[2]/td/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>35c2bbbb-2826-4a54-b883-61beec8aed52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_coinDescription__8RQVi</value>
+      <webElementGuid>5c689d65-3039-4f42-aa04-8b00218fa9a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>USDCUSD Coin</value>
+      <webElementGuid>c3af754c-8fd2-4c0e-8d78-3b60f7d81b01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_myBalanceContainer__s6wZ-&quot;]/div[@class=&quot;styles_tableWrapper__4+kih&quot;]/table[@class=&quot;styles_membraneTable__F4Lyo styles_walletsTable__Cbug4&quot;]/tbody[1]/tr[@class=&quot;styles_rowDetail__LOnd1&quot;]/td[1]/div[@class=&quot;styles_tableCell__4RsDS styles_walletsTableCell__r3Ezm&quot;]/div[@class=&quot;styles_tokensTable__tuyks&quot;]/div[@class=&quot;styles_tableWrapper__4+kih&quot;]/table[@class=&quot;styles_membraneTable__F4Lyo styles_walletsTable__Cbug4&quot;]/tbody[1]/tr[@class=&quot;styles_walletTableRow__cgr41&quot;]/td[1]/div[@class=&quot;styles_tableCell__4RsDS styles_walletsTableCell__r3Ezm&quot;]/div[@class=&quot;styles_coinDescription__8RQVi&quot;]</value>
+      <webElementGuid>f0a83997-4eb8-4d20-aa6d-cbf13fdab123</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/table/tbody/tr[4]/td/div/div/div/table/tbody/tr[2]/td/div/div</value>
+      <webElementGuid>da6678ee-4cff-4c6f-811d-31013563e6d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read From Ledger Nano'])[6]/following::div[2]</value>
+      <webElementGuid>04dccdae-85c0-47ff-b772-9dab12ce6fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use Same Address as Sending'])[3]/following::div[8]</value>
+      <webElementGuid>0cb3aaca-fa6f-4283-a1a9-0df1a29a84d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div/table/tbody/tr[2]/td/div/div</value>
+      <webElementGuid>e7e1dc59-3c8c-4777-b9e6-5952a4c46f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'USDCUSD Coin' or . = 'USDCUSD Coin')]</value>
+      <webElementGuid>6551392f-478f-4a8d-bd18-e7940f856263</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

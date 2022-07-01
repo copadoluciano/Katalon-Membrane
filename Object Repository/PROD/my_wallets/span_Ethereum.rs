@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ethereum</name>
+   <tag></tag>
+   <elementGuidId>1c88691f-2467-428a-921b-71cfd4c3ada6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/table/tbody/tr[2]/td/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.styles_walletTableRow__cgr41.styles_hasCollapsableButtonRow__aEBRv > td > div.styles_tableCell__4RsDS.styles_walletsTableCell__r3Ezm > div.styles_coinDescription__8RQVi > span.styles_coinName__rMJ57</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2eace3c4-33e6-4e73-bbf3-15bbcc8c75fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_coinName__rMJ57</value>
+      <webElementGuid>8702f9b5-ca8d-45ed-918a-fb10bd860305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ethereum</value>
+      <webElementGuid>e6db6bb1-9cf0-4f7b-a884-d06bbb1240e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_myBalanceContainer__s6wZ-&quot;]/div[@class=&quot;styles_tableWrapper__4+kih&quot;]/table[@class=&quot;styles_membraneTable__F4Lyo styles_walletsTable__Cbug4&quot;]/tbody[1]/tr[@class=&quot;styles_walletTableRow__cgr41 styles_hasCollapsableButtonRow__aEBRv&quot;]/td[1]/div[@class=&quot;styles_tableCell__4RsDS styles_walletsTableCell__r3Ezm&quot;]/div[@class=&quot;styles_coinDescription__8RQVi&quot;]/span[@class=&quot;styles_coinName__rMJ57&quot;]</value>
+      <webElementGuid>0ce321bf-f499-4c79-81aa-fa8c04d9fdc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/table/tbody/tr[2]/td/div/div/span[2]</value>
+      <webElementGuid>bb2a1b48-2ace-4e51-bdad-14fe311ea288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ETH'])[1]/following::span[1]</value>
+      <webElementGuid>db38887a-0f66-4a6b-9540-712ab0a299e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read From Ledger Nano'])[2]/following::span[3]</value>
+      <webElementGuid>94286058-3d25-42ca-bc4d-44cc06de2682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use same as undefined'])[2]/preceding::span[1]</value>
+      <webElementGuid>0518d1d1-f4f8-448b-ba22-ac7ce07c933a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read From Ledger Nano'])[3]/preceding::span[1]</value>
+      <webElementGuid>fbf4f059-a419-4ccc-88c3-be9bfcf196e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ethereum']/parent::*</value>
+      <webElementGuid>db32ad4d-e9b5-4768-a7ff-9991a3bdebdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/div/span[2]</value>
+      <webElementGuid>5e13e729-dfa3-4591-bb88-fb371ee4e21d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ethereum' or . = 'Ethereum')]</value>
+      <webElementGuid>d22deb45-c0ca-41f4-8980-794cc99c5fb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

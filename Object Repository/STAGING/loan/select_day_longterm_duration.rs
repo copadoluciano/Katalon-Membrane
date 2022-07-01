@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_day_longterm_duration</name>
+   <tag></tag>
+   <elementGuidId>251aafa1-88b9-4b8d-90c9-a94be2c615de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/form/div[2]/div/div/div[5]/div/div/div/div[2]/ul/li/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ac4407aa-1c56-46a3-833d-f25af78d4772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Days</value>
+      <webElementGuid>45263c81-b1bb-4083-8167-3d59a03dd552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_lendBorrowContainer__oNH9F&quot;]/form[1]/div[@class=&quot;styles_card__yCIOH&quot;]/div[@class=&quot;styles_cardContainer__OD4EQ&quot;]/div[@class=&quot;styles_formContent__hpD6+&quot;]/div[@class=&quot;styles_termLength__e0bGs&quot;]/div[@class=&quot;styles_selectorGroup__2Ifgg&quot;]/div[@class=&quot;styles_unitTermLength__X+7l+&quot;]/div[@class=&quot;styles_selectable__gksaM&quot;]/div[@class=&quot;styles_selectableList__+cPj5 styles_selectableList--displayed__s3-36&quot;]/ul[@class=&quot;styles_selectableList--ul__UM1GJ&quot;]/li[@class=&quot;styles_itemList__x9bnT&quot;]/div[@class=&quot;styles_inputContainer__wAE+Q&quot;]/span[1]</value>
+      <webElementGuid>295a69da-27f3-4ea6-9ecd-0940b653b737</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/form/div[2]/div/div/div[5]/div/div/div/div[2]/ul/li/div/span</value>
+      <webElementGuid>25cfe7d5-8e3f-41b3-a0ab-9181c0faa566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duration'])[1]/following::span[1]</value>
+      <webElementGuid>48e07fb5-ba9c-4c02-a778-8924786afbce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Name'])[1]/following::span[1]</value>
+      <webElementGuid>54f264f6-fdeb-4623-895f-58c031cae4a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weeks'])[1]/preceding::span[1]</value>
+      <webElementGuid>70f88dc9-8fb3-46fd-99a8-ae84374f6d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer Expiration'])[1]/preceding::span[2]</value>
+      <webElementGuid>f51827ff-4719-46f2-90da-98d4af049463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Days']/parent::*</value>
+      <webElementGuid>91044ee8-d473-4f71-8359-e5693c947fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/span</value>
+      <webElementGuid>c58cc571-0b53-413b-a823-ffc5ceab58a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Days' or . = 'Days')]</value>
+      <webElementGuid>00da47ad-b3ed-4593-8ed9-ee04c36d07da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

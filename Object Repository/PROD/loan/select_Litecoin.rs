@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Litecoin</name>
+   <tag></tag>
+   <elementGuidId>9e2077b2-0101-4ab6-8399-784149fb4c12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h6[contains(text(),'Litecoin')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>002d0f0e-c6dc-4c0e-8060-d52c8deee407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Litecoin</value>
+      <webElementGuid>f1b1673e-d883-40a2-aa94-dfacea1b1179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_lendBorrowContainer__oNH9F&quot;]/form[1]/div[@class=&quot;styles_card__yCIOH&quot;]/div[@class=&quot;styles_cardContainer__OD4EQ&quot;]/div[@class=&quot;styles_formContent__hpD6+&quot;]/div[@class=&quot;styles_principalAsset__MYMPm&quot;]/div[@class=&quot;styles_selectorGroup__2Ifgg&quot;]/div[@class=&quot;styles_principalAssetId__f7u0S&quot;]/div[@class=&quot;styles_selectable__hOZhE&quot;]/div[@class=&quot;styles_modal__5D1PS styles_modal__Q+Jxv&quot;]/div[@class=&quot;styles_modalContainer__ognAv styles_modalContainer__KMm73&quot;]/div[@class=&quot;styles_dialogContainer__pC5sT&quot;]/div[@class=&quot;styles_assetsListContainer__t4tZV&quot;]/ul[@class=&quot;styles_assetsList__1LLmE&quot;]/li[3]/div[1]/h6[1]</value>
+      <webElementGuid>5b4db099-5759-46f4-96f1-7d0638bd69ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/form/div[2]/div/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/ul/li[3]/div/h6</value>
+      <webElementGuid>e6beb23d-91fb-4a52-9c46-c5a7064c1147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LTC'])[1]/following::h6[1]</value>
+      <webElementGuid>e7d9e1f0-b8eb-4c9e-b30d-1754e6c04ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ethereum'])[1]/following::h6[1]</value>
+      <webElementGuid>e9fa2fdd-6477-4f0a-8f08-a1604323f185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BCH'])[1]/preceding::h6[1]</value>
+      <webElementGuid>0f1fcc3b-060d-4bbe-908e-064ea843a0df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bitcoin Cash'])[1]/preceding::h6[1]</value>
+      <webElementGuid>c451e795-7991-46f3-beaa-630d8663d2e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Litecoin']/parent::*</value>
+      <webElementGuid>45ee60b9-c7f8-4fe9-b724-0829f6c10b11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/h6</value>
+      <webElementGuid>0417905e-4da9-4e72-92fa-73045767c707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Litecoin' or . = 'Litecoin')]</value>
+      <webElementGuid>69b21865-f14b-4456-b16a-92ec78c37caf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

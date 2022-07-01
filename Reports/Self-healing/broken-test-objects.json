@@ -119,6 +119,36 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/my_wallets/box_WBTCWrapped BTC_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/loan/select_Litecoin",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/form/div[2]/div/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/ul/li[3]/div/h6",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027LTC\u0027])[1]/following::h6[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/loan/select_Litecoin_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/loan/select_chavo",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/form/div[2]/div/div/div[4]/div/div[2]/div[2]/div[4]/ul/li[5]/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Luciano Copado\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/loan/select_chavo_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/STAGING/loan/select_Litecoin",
+      "brokenLocator": "//div[@id\u003d\u0027root\u0027]/div/div/div/form/div[2]/div/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div[2]/ul/li[3]/div/h6",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027LTC\u0027])[1]/following::h6[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/STAGING/loan/select_Litecoin_neighbor.png"
     }
   ]
 }

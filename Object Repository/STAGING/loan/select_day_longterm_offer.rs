@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_day_longterm_offer</name>
+   <tag></tag>
+   <elementGuidId>8ae90093-f561-4947-a2f1-295896d1bbf0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/form/div[2]/div/div/div[6]/div/div/div/div[2]/ul/li[4]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eff9c76c-9920-4e51-8474-3cc43ac99b42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Days</value>
+      <webElementGuid>44b0632b-54bc-4b17-9d29-8c1474a4ebc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_lendBorrowContainer__oNH9F&quot;]/form[1]/div[@class=&quot;styles_card__yCIOH&quot;]/div[@class=&quot;styles_cardContainer__OD4EQ&quot;]/div[@class=&quot;styles_formContent__hpD6+&quot;]/div[@class=&quot;styles_offerExpiration__gkNWi&quot;]/div[@class=&quot;styles_selectorGroup__2Ifgg&quot;]/div[@class=&quot;styles_unitExpiration__qBIAh&quot;]/div[@class=&quot;styles_selectable__gksaM&quot;]/div[@class=&quot;styles_selectableList__+cPj5 styles_selectableList--displayed__s3-36&quot;]/ul[@class=&quot;styles_selectableList--ul__UM1GJ&quot;]/li[@class=&quot;styles_itemList__x9bnT&quot;]/div[@class=&quot;styles_inputContainer__wAE+Q&quot;]/span[1]</value>
+      <webElementGuid>b5ec5f20-b57e-49bc-b1a0-21a8746aa315</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/form/div[2]/div/div/div[6]/div/div/div/div[2]/ul/li[4]/div/span</value>
+      <webElementGuid>8859d38c-a23a-4b05-aaaf-f9c628dc733e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hours'])[1]/following::span[1]</value>
+      <webElementGuid>3233e83e-9815-4f54-b96e-bec2044bf626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minutes'])[1]/following::span[2]</value>
+      <webElementGuid>97feb4e3-051e-4df2-b36a-6892bd9a4547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weeks'])[2]/preceding::span[1]</value>
+      <webElementGuid>22b1849c-49f4-4f49-b23a-b7a0483c17be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select value'])[2]/preceding::span[2]</value>
+      <webElementGuid>590099c8-d100-4a11-b19e-062e8d8e01ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/span</value>
+      <webElementGuid>eba17c05-a49c-4e6c-bd78-830f083e37bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Days' or . = 'Days')]</value>
+      <webElementGuid>8336ea24-43dc-4902-a39d-68c47979dbf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

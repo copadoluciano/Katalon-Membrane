@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>box_ETHEthereum</name>
+   <tag></tag>
+   <elementGuidId>35b8fcb6-7d0d-4c91-a82b-2bdd07cc2666</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/table/tbody/tr[2]/td/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.styles_walletTableRow__cgr41.styles_hasCollapsableButtonRow__aEBRv > td > div.styles_tableCell__4RsDS.styles_walletsTableCell__r3Ezm > div.styles_coinDescription__8RQVi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d193b3ab-6832-429a-b894-2366c432dff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_coinDescription__8RQVi</value>
+      <webElementGuid>231dd587-a8d7-4fd3-a389-bcd677f6210d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ETHEthereum</value>
+      <webElementGuid>849fe04c-9233-4e66-a489-6663e622ebc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_myBalanceContainer__s6wZ-&quot;]/div[@class=&quot;styles_tableWrapper__4+kih&quot;]/table[@class=&quot;styles_membraneTable__F4Lyo styles_walletsTable__Cbug4&quot;]/tbody[1]/tr[@class=&quot;styles_walletTableRow__cgr41 styles_hasCollapsableButtonRow__aEBRv&quot;]/td[1]/div[@class=&quot;styles_tableCell__4RsDS styles_walletsTableCell__r3Ezm&quot;]/div[@class=&quot;styles_coinDescription__8RQVi&quot;]</value>
+      <webElementGuid>33d65708-86dd-4e98-88bb-309aec52b492</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/table/tbody/tr[2]/td/div/div</value>
+      <webElementGuid>4a15b98b-4e0d-4483-a7f4-94cf48355758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read From Ledger Nano'])[2]/following::div[2]</value>
+      <webElementGuid>958a636f-3940-49c9-8bda-732c3ee20c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use Same Address as Sending'])[1]/following::div[8]</value>
+      <webElementGuid>12ac5ae1-335a-4c7a-9720-d79107f5fcd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/div</value>
+      <webElementGuid>2ac20480-cfd3-44cf-90f8-ffa82260462f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ETHEthereum' or . = 'ETHEthereum')]</value>
+      <webElementGuid>38237fee-a219-417a-bad4-7d9f730a3688</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

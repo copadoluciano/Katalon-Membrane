@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>balances _credits</name>
+   <tag></tag>
+   <elementGuidId>88bce30f-914b-4967-99db-5dd43d8a9ff7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/header/div[3]/div/div[2]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.styles_menuItem__BZg8- > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9e8714bb-d4bf-4bd2-9986-7561fc029ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/my-balance</value>
+      <webElementGuid>4bd97118-0d29-42a4-aa15-e312dd7521ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Balances &amp; Credits</value>
+      <webElementGuid>838d4f4d-02d1-4f23-9912-29b01cd6bc13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/header[1]/div[@class=&quot;styles_profile__bDv+H&quot;]/div[@class=&quot;styles_reference__1Uzek&quot;]/div[@class=&quot;styles_menuWrapper__pdHNH&quot;]/ul[@class=&quot;styles_menu__RuT83&quot;]/li[@class=&quot;styles_menuItem__BZg8-&quot;]/a[1]</value>
+      <webElementGuid>57dbc138-a089-4c38-a12b-4f1d71850ef4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/header/div[3]/div/div[2]/ul/li/a</value>
+      <webElementGuid>fc3e1d9e-0649-46de-9dfb-4d6c8729e18f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Balances &amp; Credits')]</value>
+      <webElementGuid>89f9f490-ba84-4cc9-aeb9-45377441437a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settlements'])[1]/following::a[1]</value>
+      <webElementGuid>81c3cca0-32d7-47d7-853f-046558b1698e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Wallets'])[1]/preceding::a[1]</value>
+      <webElementGuid>42a211fe-653c-4f43-8a68-bf96a1dd75e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Center'])[1]/preceding::a[2]</value>
+      <webElementGuid>0f921c72-53b4-4cad-b22a-3e20305a715d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Balances &amp; Credits']/parent::*</value>
+      <webElementGuid>87ff0c7f-bc19-4733-b7dd-d10ac21e309e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/my-balance')]</value>
+      <webElementGuid>7fe7ca4c-91df-4873-a6d6-c678dc34b40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>7490ce6c-5fc3-4151-bd56-11f1b85b70bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/my-balance' and (text() = 'Balances &amp; Credits' or . = 'Balances &amp; Credits')]</value>
+      <webElementGuid>f1e60742-0a08-4cdf-a101-a78b24bfd893</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_chavo</name>
+   <tag></tag>
+   <elementGuidId>7c7fc98e-6b2d-4fa0-89a5-878003a9807f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/form/div[2]/div/div/div[2]/div[3]/div/div[2]/div[2]/div[4]/ul/li[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>f38d49f2-9143-4728-8873-969710f452ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_itemList__x9bnT</value>
+      <webElementGuid>ab7d7d62-0e24-49fe-afd5-c2d14b63dd9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cy</name>
+      <type>Main</type>
+      <value>li_elchavo_lootgnitset</value>
+      <webElementGuid>1bc5567f-6c29-4d75-94f9-7d088f957822</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ElChavo Lootgnitset</value>
+      <webElementGuid>32e86a7b-04a9-4fbb-80ab-cc596ba3fb9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_buySellContainer__lJE32&quot;]/form[1]/div[@class=&quot;styles_card__yCIOH&quot;]/div[@class=&quot;styles_cardContainer__OD4EQ&quot;]/div[1]/div[@class=&quot;styles_flexWrapper__XSBX8&quot;]/div[@class=&quot;styles_targetCompaniesId__5-8mp&quot;]/div[@class=&quot;styles_selectable__68lJ1 styles_select__vbhfn&quot;]/div[@class=&quot;styles_modal__5D1PS&quot;]/div[@class=&quot;styles_modalContainer__ognAv styles_modal__dXwJj&quot;]/div[@class=&quot;styles_selectableList--container__Qwf6T&quot;]/ul[@class=&quot;styles_selectableList--ul__bSAEk&quot;]/li[@class=&quot;styles_itemList__x9bnT&quot;]</value>
+      <webElementGuid>a8648638-b455-4f9f-a1e1-51f0a182995a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/form/div[2]/div/div/div[2]/div[3]/div/div[2]/div[2]/div[4]/ul/li[5]</value>
+      <webElementGuid>01b63be8-c97f-47f0-a48d-50363f2817cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Luciano Copado'])[1]/following::li[1]</value>
+      <webElementGuid>c4f46f19-b5c3-43b1-b569-e09e9af66f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gaston michel'])[1]/following::li[2]</value>
+      <webElementGuid>19de7ea0-08e6-4d65-94cc-5f00d41318b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Counterparty'])[1]/preceding::li[1]</value>
+      <webElementGuid>607ebb80-bd71-47b4-ac9c-8e85797663b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[5]</value>
+      <webElementGuid>f492be8a-834e-4453-91a1-ba61e453ff1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'ElChavo Lootgnitset' or . = 'ElChavo Lootgnitset')]</value>
+      <webElementGuid>01d605e2-880d-4941-aef7-76f18092a4a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>asset_unit_price</name>
+   <tag></tag>
+   <elementGuidId>02372440-0cbb-49b5-b713-e2ee269338cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/form/div[2]/div/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>51327e08-60fb-4b9d-b173-f1dd2b9b5457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>styles_fieldInput__+R6Jk</value>
+      <webElementGuid>3867652b-8fc1-4118-ab11-4cedc1b0ed10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_buySellContainer__lJE32&quot;]/form[1]/div[@class=&quot;styles_card__yCIOH&quot;]/div[@class=&quot;styles_cardContainer__OD4EQ&quot;]/div[1]/div[@class=&quot;styles_flexWrapper__XSBX8&quot;]/div[@class=&quot;styles_flexOne__rJ02c styles_withMargin__qIlqX&quot;]/div[@class=&quot;styles_quote__MJDHu&quot;]/div[@class=&quot;styles_selectorGroup__15FEB&quot;]/div[@class=&quot;styles_name__aQIq-&quot;]/div[@class=&quot;styles_selectable__hOZhE&quot;]/div[@class=&quot;styles_fieldInput__+R6Jk&quot;]</value>
+      <webElementGuid>0f956827-6ec1-4645-b9e2-faf1e18cbcbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/form/div[2]/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>da5f21ca-8a47-44f7-9a67-99c8c3d03208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit price'])[1]/following::div[4]</value>
+      <webElementGuid>db3692b5-344b-4319-9fa9-02d59fc05446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please insert a value'])[1]/following::div[6]</value>
+      <webElementGuid>2ae8c7f7-4abf-4f2e-a42d-63756e7fd5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source: COINBASE'])[1]/preceding::div[1]</value>
+      <webElementGuid>f8a1a4d6-1022-4f7e-99a7-83e521ede101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total amount'])[1]/preceding::div[3]</value>
+      <webElementGuid>b152077c-398a-4684-9bce-ecbd55e28781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>055d34a0-dba6-4ec1-ab33-1dc3b46ec3a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

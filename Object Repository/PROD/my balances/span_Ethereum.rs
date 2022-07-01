@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ethereum</name>
+   <tag></tag>
+   <elementGuidId>f500dac1-eeef-46e1-aa47-5730bbb6fa7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.styles_coinCardTitle__Fgz5K > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6ea7750b-fa1c-4e27-8e81-facfbd19e57f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Ethereum</value>
+      <webElementGuid>e9c7f06b-d4bb-4bd7-93e8-2019a727baac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;styles_mainContent__VwuoZ&quot;]/div[@class=&quot;styles_wrapper__GF9VK&quot;]/div[@class=&quot;styles_myBalanceContainer__yhuRK&quot;]/div[@class=&quot;styles_gridContainer__LiPOa&quot;]/div[@class=&quot;styles_cardContainer__jkBND styles_cardContent__vGB99&quot;]/div[@class=&quot;styles_coinCard__5Z-kA&quot;]/div[@class=&quot;styles_coinCardTitle__Fgz5K&quot;]/span[1]</value>
+      <webElementGuid>36600d84-6fc0-42fe-81a4-65dd536255f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/div/div/div/div/span</value>
+      <webElementGuid>8f22e183-b223-44fa-af06-458979c2832c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LITECOIN'])[1]/following::span[1]</value>
+      <webElementGuid>85b124d2-7c03-4a74-8f2d-ca77fb2b31ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BITCOIN CASH'])[1]/following::span[1]</value>
+      <webElementGuid>266ba500-ed57-40c8-b203-b72ac588c75c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/preceding::span[1]</value>
+      <webElementGuid>149c2dbe-40b2-40ce-9ed2-3da3c1d26693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wallet Balance'])[1]/preceding::span[3]</value>
+      <webElementGuid>c0370dcb-5acd-4f5d-a68b-ddc30c214fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ethereum']/parent::*</value>
+      <webElementGuid>53e3c503-de5a-4efc-aa37-6f587c55d95a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/span</value>
+      <webElementGuid>ae4b3fd7-0f41-4234-aa85-d137ff3472be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Ethereum' or . = ' Ethereum')]</value>
+      <webElementGuid>ee57c2ca-0e12-440e-ac38-a1ee2cc3ab91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
