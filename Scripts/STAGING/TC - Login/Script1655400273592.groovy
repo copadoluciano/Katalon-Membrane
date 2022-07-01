@@ -33,3 +33,5 @@ WebUI.click(findTestObject('STAGING/sign_in/fuera_modal'))
 
 WebUI.click(findTestObject('Object Repository/STAGING/sign_in/button_Next'))
 
+WebUI.delay(3)
+
